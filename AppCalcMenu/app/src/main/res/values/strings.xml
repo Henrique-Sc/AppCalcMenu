@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">CalcMenu</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="mniAdi">Adição</string>
+    <string name="mniSub">Subtração</string>
+    <string name="mniMul">Multiplicação</string>
+    <string name="mniDiv">Divisão</string>
+    <string name="txtFrag1">Calculadora</string>
+    <string name="txtFrag1a">Pressione o menu superior e escolha a opção desejada</string>
+    <string name="txtTitleAdi">Adição</string>
+    <string name="edtNum1">Número 1</string>
+    <string name="edtNum2">Número 2</string>
+    <string name="btnCalc">Calcular</string>
+    <string name="txtTitleSub">Subtração</string>
+    <string name="txtTitleDiv">Divisão</string>
+    <string name="txtTitleMul">Multiplicação</string>
+</resources>

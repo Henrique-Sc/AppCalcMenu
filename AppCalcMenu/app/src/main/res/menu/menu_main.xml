@@ -1,0 +1,29 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.henrique.calcmenu.MainActivity">
+
+    <item
+        android:id="@+id/mniAdi"
+        android:orderInCategory="100"
+        android:title="@string/mniAdi"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/mniSub"
+        android:orderInCategory="100"
+        android:title="@string/mniSub"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/mniMul"
+        android:orderInCategory="100"
+        android:title="@string/mniMul"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/mniDiv"
+        android:orderInCategory="100"
+        android:title="@string/mniDiv"
+        app:showAsAction="never" />
+z</menu>
